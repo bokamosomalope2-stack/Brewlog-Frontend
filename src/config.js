@@ -1,1 +1,1 @@
-console.log("Current Deployed API Target String:", import.meta.env.VITE_API_URL);
+export const API_BASE_URL = window.location.hostname === 'localhost' ? 'http://localhost:8080/api/brews' : 'https://onrender.com';
