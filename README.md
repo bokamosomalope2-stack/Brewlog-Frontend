@@ -1,5 +1,5 @@
 # ☕ Brewlog Dashboard Frontend
-
+## click this link to run the application https://brewlog-frontend-qsbz-bnhzqbo3i-bokamosomalope2-5709s-projects.vercel.app
 A responsive, responsive single-page tracking dashboard built with **React**, **Vite**, **Tailwind CSS**, and **Lucide React Icons**. This frontend interfaces directly with a cloud-hosted Spring Boot REST API to handle CRUD operations for custom coffee extractions.
 
 ## 🚀 Key Features
